@@ -6,14 +6,14 @@
 
 **Tecnologies i am familiar with:**
 <div>
-  <a href="#"><img alt='HTML' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></a>
-  <img alt='CSS' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-  <img alt='Javascript' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-  <img alt='Sass' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img alt='React' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
-  <img alt='Node.js' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'>
-  <img alt='PostgreSQL' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'>
-  <img alt='Git' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'>
+  <a id='img1' href='#img1'><img alt='HTML' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></a>
+  <a id='img2' href='#img2'><img alt='CSS' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'></a>
+  <a id='img3' href='#img3'><img alt='Javascript' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></a>
+  <a id='img4' href='#img4'><img alt='Sass' width='40' draggable='false' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
+  <a id='img5' href='#img5'><img alt='React' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>
+  <a id='img6' href='#img6'><img alt='Node.js' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'></a>
+  <a id='img7' href='#img7'><img alt='PostgreSQL' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'></a>
+  <a id='img8' href='#img8'><img alt='Git' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></a>
 </div>
 
 ##
