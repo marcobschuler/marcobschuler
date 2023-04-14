@@ -6,18 +6,18 @@
 
 **Tecnologies i am familiar with:**
 <div>
-  <a id='img1' href='#img1'><img alt='HTML' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></a>
-  <a id='img2' href='#img2'><img alt='CSS' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'></a>
-  <a id='img3' href='#img3'><img alt='Javascript' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></a>
-  <a id='img4' href='#img4'><img alt='Sass' width='40' draggable='false' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
-  <a id='img5' href='#img5'><img alt='React' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>
-  <a id='img6' href='#img6'><img alt='Node.js' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'></a>
-  <a id='img7' href='#img7'><img alt='PostgreSQL' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'></a>
-  <a id='img8' href='#img8'><img alt='Git' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></a>
+  <a href='#'><img alt='HTML' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></a>
+  <a href='#'><img alt='CSS' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'></a>
+  <a href='#'><img alt='Javascript' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></a>
+  <a href='#'><img alt='Sass' width='40' draggable='false' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
+  <a href='#'><img alt='React' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>
+  <a href='#'><img alt='Node.js' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'></a>
+  <a href='#'><img alt='PostgreSQL' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'></a>
+  <a href='#'><img alt='Git' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></a>
 </div>
 
 ##
 <div>
-  <a href='mailto:marb.schuler@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
-  <a href='https://www.linkedin.com/in/marcobschuler/' target='_blank'><img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+  <a target='_blank' rel='noreferrer' href='mailto:marb.schuler@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+  <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/marcobschuler/' target='_blank'><img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div>
