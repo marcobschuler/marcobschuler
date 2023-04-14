@@ -18,6 +18,6 @@
 
 ##
 <div>
-  <a target='_blank' rel='noreferrer' href='mailto:marb.schuler@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
-  <a target='_blank' rel='noreferrer' href='https://www.linkedin.com/in/marcobschuler/' target='_blank'><img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+  <a href='mailto:marb.schuler@gmail.com' target='_blank'><img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'></a>
+  <a href='https://www.linkedin.com/in/marcobschuler/' target='_blank'><img src='https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div>
