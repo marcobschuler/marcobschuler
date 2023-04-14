@@ -6,7 +6,7 @@
 
 **Tecnologies i am familiar with:**
 <div>
-  <img alt='HTML' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <a href="#"><img alt='HTML' width='40' draggable='false' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></a>
   <img alt='CSS' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
   <img alt='Javascript' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
   <img alt='Sass' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
