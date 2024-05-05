@@ -7,7 +7,7 @@
 **Tecnologies i am curious about:**
 <div>
   <a href='#'><img alt='Next.js' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
-  <a href='#'><img alt='Typescript' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
+  <a href='#'><img alt='Typescript' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
   <a href='#'><img alt='Tailwind' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" /></a>
 </div>
 
