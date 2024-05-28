@@ -8,19 +8,19 @@
 <div>
   <a href='#'><img alt='Next.js' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></a>
   <a href='#'><img alt='Typescript' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" /></a>
-  <a href='#'><img alt='Tailwind' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
 </div>
 
 **Tecnologies i am familiar with:**
 <div>
+  <a href='#'><img alt='Git' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></a>
   <a href='#'><img alt='HTML' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'></a>
   <a href='#'><img alt='CSS' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'></a>
   <a href='#'><img alt='Javascript' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'></a>
   <a href='#'><img alt='Sass' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" /></a>
+  <a href='#'><img alt='Tailwind' width='40' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" /></a>
   <a href='#'><img alt='React' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'></a>
   <a href='#'><img alt='Node.js' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg'></a>
   <a href='#'><img alt='PostgreSQL' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg'></a>
-  <a href='#'><img alt='Git' width='40' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg'></a>
 </div>
 
 ##
